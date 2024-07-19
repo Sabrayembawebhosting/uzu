@@ -4,7 +4,8 @@
 body{
     text-align:center;
     background-position:center;
-    background-size:extend;
+    background-size:cover;
+    background-repeat: none;
     font-size: larger;
     }
     input{
