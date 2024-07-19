@@ -6,6 +6,8 @@ body{
     background-position:center;
     background-size:cover;
     background-repeat: none;
+    background-position: center;
+    background-attachment: fixed;
     font-size: larger;
     }
     input{
